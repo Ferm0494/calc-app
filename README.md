@@ -2,8 +2,6 @@
 
 This project is about creating a very simple React application. Working on a real world project for a fictitious company that requires help. The project was divided into several milestones, and each milestone has functional and technical requirements that were implemented.
 
-
-
 ## :package: Built With
 
 - HTML and JSX
@@ -13,7 +11,7 @@ This project is about creating a very simple React application. Working on a rea
 
 ## :mag: Live Demo
 
-[Live Demo Link](https://calculator-app-project.herokuapp.com/)
+[Live Demo Link](https://react-calc-ferm94.herokuapp.com/)
 
 ## :computer: Getting Started
 
@@ -25,13 +23,13 @@ To get a local copy up and running follow these simple steps.
 1) Clone the repository to your local machine
 
 ```sh
-  $ git clone https://github.com/mcervantes71/Calculator_App.git
+  $ git clone https://github.com/Ferm0494/calc-app.git
 ```
 
 2) cd into the directory
 
 ```sh
-  $ cd Calculator_App
+  $ cd calc-app
 ```
 
 ### Requirements
