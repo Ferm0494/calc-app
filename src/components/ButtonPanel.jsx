@@ -3,7 +3,7 @@ import Button from './Button'
 
 const ButtonPanel = props => {
     return (
-        <div className={"d-flex  button-panel"}>
+        <div className={"d-flex button-panel"}>
             <div className="group1 h-100">
                 <Button name="AC" color="light-gray-backg"/>
                 <Button name="+/-" color="light-gray-backg"/>

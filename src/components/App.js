@@ -5,7 +5,7 @@ import './styles/index.scss';
 
 function App() {
   return (
-    <div>
+    <div className="w-700">
       <Display />
       <ButtonPanel />
 
