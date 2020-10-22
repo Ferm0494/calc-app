@@ -3,8 +3,8 @@ import PropTypes from 'prop-types'
 
 const Display = ({result}) => {
     return (
-        <div>
-            {result}
+        <div className={"d-flex w-700 h-100 display"}>
+           {result}
         </div>
     )
 }
