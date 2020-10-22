@@ -1,73 +1,82 @@
-**Calc React-App**
+# Calculator App
 
-# Project
-Making a basic calculator App using React Classes.
+This project is about creating a very simple React application. Working on a real world project for a fictitious company that requires help. The project was divided into several milestones, and each milestone has functional and technical requirements that were implemented.
 
-**LIVE VERSION [CLICK HERE](https://react-calc-ferm94.herokuapp.com/)**
 
-## Available Scripts
 
-In the project directory, you can run:
+## :package: Built With
 
-### `yarn start`
+- HTML and JSX
+- Sass
+- Javascript (ES6)
+- React
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :mag: Live Demo
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[Live Demo Link](https://calculator-app-project.herokuapp.com/)
 
-### `yarn test`
+## :computer: Getting Started
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running follow these simple steps.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Download
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+1) Clone the repository to your local machine
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+  $ git clone https://github.com/mcervantes71/Calculator_App.git
+```
 
-### `yarn eject`
+2) cd into the directory
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```sh
+  $ cd Calculator_App
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Requirements
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+[Node.js](https://nodejs.org) is required to install dependencies and run scripts via `npm`.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Usage
 
-## Learn More
+Install the dependencies in the local node_modules folder
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```sh
+  $ npm install
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Build project and open web server running project
 
-### Code Splitting
+```sh
+  $ npm start
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+Builds code bundle with production settings (minification, uglification, etc..)
 
-### Analyzing the Bundle Size
+```sh
+  $ npm run build
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## :busts_in_silhouette: Authors
 
-### Making a Progressive Web App
+👤 **Fernando Rivas**
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- Github: [@Ferm0494](https://github.com/Ferm0494)
+- Twitter: [@ferm494](https://twitter.com/ferm494)
+- Linkedin: [@Ferm0494](https://www.linkedin.com/in/ferm0494/)
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+## 🤝 Contributing
 
-### Deployment
+    Contributions, issues and feature requests are welcome!
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Feel free to check the [issues page](../../issues).
 
-### `yarn build` fails to minify
+## :star2: Show your support
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+    Give a ⭐️ if you like this project!
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
