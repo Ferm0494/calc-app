@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Calc React-App**
+
+# Project
+Making a basic calculator App using React Classes.
+
+**LIVE VERSION [CLICK HERE](https://react-calc-ferm94.herokuapp.com/)**
 
 ## Available Scripts
 
