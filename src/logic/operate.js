@@ -1,0 +1,31 @@
+import Big from 'big.js'
+
+export default operate =(number1,number2,operation)=>{
+    const num1=Big(number1);
+    const num2 =Big(number2);
+    switch (operation) {
+        case '+':
+            
+           return num1.plus(num2).toString();
+
+         case '-':
+             return num1.minus(num2).toString();
+             
+         case '/':
+             
+         return num1.div(num2).toString();
+
+         case '*':
+
+            return num1.mul(num2).toString();
+
+         case '%':
+             
+         return num1.div(100).toString
+    
+        default:
+            return 0;
+            break;
+    }
+}
+
