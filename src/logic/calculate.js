@@ -77,7 +77,8 @@ const calculate =(calculator,buttonName)=>{
              return {total, next: '0.', operation}
      
          default:
-             const finalTotal = total.split('').push(buttonName);
+            const finalTotal = total.split('');
+            finalTotal.push(buttonName)
  
              return{
                  total: finalTotal.join(''),
